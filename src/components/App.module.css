@@ -1,0 +1,11 @@
+.App {
+    height: 570px;
+    width: 90%;
+    background-color: gray;
+    display:inline-block;
+    position: relative;
+    top: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+}

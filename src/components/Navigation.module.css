@@ -1,0 +1,8 @@
+.Navigation {
+    height: 300px;
+    width: 20%;
+    background-color: blue;
+    margin-top: 15px;
+    display: inline-block;
+    vertical-align: top;
+}

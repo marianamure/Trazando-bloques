@@ -1,0 +1,30 @@
+.Main {
+    height: 390px;
+    width: 75%;
+    background-color: red;
+    display:inline-block;
+    position: relative;
+    top: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.SubContents {
+    height: 220px;
+    width: 31%;
+    background-color: yellow;
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.Advertisement {
+    height: 120px;
+    width: 97%;
+    background-color: purple;
+    position:relative;
+    margin-top: 15px;
+    margin:15px;
+}
+
+
